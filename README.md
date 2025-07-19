@@ -1,7 +1,7 @@
 <div align="center">
   <img src="saanvikit.png" alt="Saanvik IT Logo" width="600"/>
-  <h1>🚀 Azure Data Engineering Training Roadmap</h1>
-  <p><em>Master data engineering on Azure with hands-on labs and real-world projects</em></p>
+  <h1>🚀 Azure Data Engineer Training Roadmap</h1>
+  <p><em>Master data engineer on Azure with hands-on labs and real-world projects</em></p>
   <p><strong>Website:</strong> <a href="https://saanvikit.com">https://saanvikit.com</a> | <strong>Contact:</strong> +91 9513184144</p>
   <hr>
 </div>
@@ -9,7 +9,7 @@
 ## 📋 Table of Contents
 
 - [Course Overview](#course-overview)
-- [Core Azure & Data Engineering Concepts](#core-azure--data-engineering-concepts)
+- [Core Azure & Data engineer Concepts](#core-azure--data-engineer-concepts)
 - [Azure Storage & Data Lake](#azure-storage--data-lake)
 - [Data Ingestion & Orchestration](#data-ingestion--orchestration)
 - [Azure Databricks & Data Transformation](#azure-databricks--data-transformation)
@@ -22,11 +22,11 @@
 
 ## 🌟 Course Overview
 
-Welcome to the Azure Data Engineering Training! This curriculum is designed to help you master the technical skills required for modern data engineering on Microsoft Azure. Each section includes both conceptual learning and hands-on labs to reinforce your knowledge.
+Welcome to the Azure Data engineer Training! This curriculum is designed to help you master the technical skills required for modern data engineer on Microsoft Azure. Each section includes both conceptual learning and hands-on labs to reinforce your knowledge.
 
 ### 🎯 Learning Objectives
 
-- Understand Azure data engineering architecture and lifecycle
+- Understand Azure data engineer architecture and lifecycle
 - Master Azure Storage, Data Lake, and security
 - Build and orchestrate data pipelines with Azure Data Factory
 - Transform and analyze data using Databricks and Spark
@@ -37,12 +37,12 @@ Welcome to the Azure Data Engineering Training! This curriculum is designed to h
 
 <hr>
 
-## 🏗️ Core Azure & Data Engineering Concepts
+## 🏗️ Core Azure & Data engineer Concepts
 
 - 🌐 Microsoft Azure Architecture & Service Models (IaaS, PaaS, SaaS)
 - 🛠️ Azure Portal, CLI, ARM Templates: Resource Deployment & Automation
-- 📈 Data Engineering Lifecycle on Azure: Ingestion to Consumption
-- 🤖 Data Engineering Roles, Responsibilities & Use Cases
+- 📈 Data engineer Lifecycle on Azure: Ingestion to Consumption
+- 🤖 Data engineer Roles, Responsibilities & Use Cases
 
 ## 🗄️ Azure Storage & Data Lake
 
